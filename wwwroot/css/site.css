@@ -5,6 +5,9 @@ a.navbar-brand {
   white-space: normal;
   text-align: center;
   word-break: break-all;
+  font-size: 28px;
+  font-weight: bold;
+  font-style: italic;
 }
 
 /* Provide sufficient contrast against white background */
@@ -61,6 +64,15 @@ html {
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
+  color: darkmagenta;
+}
+
+th{
+  color: coral;
+}
+
+h1{
+  color: goldenrod;
 }
 .footer {
   position: absolute;
